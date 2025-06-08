@@ -1,0 +1,9 @@
+torch>=1.9.0
+Pillow>=8.0.0
+numpy>=1.19.0
+comet-ml>=3.33.8
+visdom>=0.1.8.9
+dominate
+imageio
+opencv-python
+einops

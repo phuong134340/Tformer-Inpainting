@@ -1,5 +1,4 @@
 # T-former: An Efficient Transformer for Image Inpainting (MM 2022) 
-# The modified copy from https://github.com/longnguyenha050/CS331
 This is the code for ACM multimedia 2022 “T-former: An Efficient Transformer for Image Inpainting”
 
 # download dataset
